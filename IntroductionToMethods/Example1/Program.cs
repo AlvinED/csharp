@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IntroductionToMethods
+namespace Example1
 {
     class Program
     {

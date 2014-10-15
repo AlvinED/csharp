@@ -1,4 +1,4 @@
-﻿namespace IntroductionToMethods
+﻿namespace Example1
 {
     public class Person
     {
