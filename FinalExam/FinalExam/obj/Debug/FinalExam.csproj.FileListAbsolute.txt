@@ -1,0 +1,5 @@
+C:\Users\dsantos\Desktop\FinalExam\FinalExam\bin\Debug\FinalExam.exe
+C:\Users\dsantos\Desktop\FinalExam\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\dsantos\Desktop\FinalExam\FinalExam\obj\Debug\FinalExam.csprojResolveAssemblyReference.cache
+C:\Users\dsantos\Desktop\FinalExam\FinalExam\obj\Debug\FinalExam.exe
+C:\Users\dsantos\Desktop\FinalExam\FinalExam\obj\Debug\FinalExam.pdb
