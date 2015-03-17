@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example3", "Example3\Exampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example4", "Example4\Example4.csproj", "{AFB0E5E8-5F5F-4D78-818E-7D7239D1203D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "Lab4\Lab4.csproj", "{01385D94-A253-45A7-A76D-857A9ED8F1A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,16 @@ Global
 		{AFB0E5E8-5F5F-4D78-818E-7D7239D1203D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{AFB0E5E8-5F5F-4D78-818E-7D7239D1203D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{AFB0E5E8-5F5F-4D78-818E-7D7239D1203D}.Release|x86.ActiveCfg = Release|Any CPU
+		{01385D94-A253-45A7-A76D-857A9ED8F1A7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{01385D94-A253-45A7-A76D-857A9ED8F1A7}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{01385D94-A253-45A7-A76D-857A9ED8F1A7}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{01385D94-A253-45A7-A76D-857A9ED8F1A7}.Debug|x86.ActiveCfg = Debug|x86
+		{01385D94-A253-45A7-A76D-857A9ED8F1A7}.Debug|x86.Build.0 = Debug|x86
+		{01385D94-A253-45A7-A76D-857A9ED8F1A7}.Release|Any CPU.ActiveCfg = Release|x86
+		{01385D94-A253-45A7-A76D-857A9ED8F1A7}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{01385D94-A253-45A7-A76D-857A9ED8F1A7}.Release|Mixed Platforms.Build.0 = Release|x86
+		{01385D94-A253-45A7-A76D-857A9ED8F1A7}.Release|x86.ActiveCfg = Release|x86
+		{01385D94-A253-45A7-A76D-857A9ED8F1A7}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

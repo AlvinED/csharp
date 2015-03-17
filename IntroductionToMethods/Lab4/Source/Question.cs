@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lab3Hard_Solution
+namespace Lab4
 {
     static class Question
     {
@@ -9,7 +9,6 @@ namespace Lab3Hard_Solution
 
         public static string AskForString(string prompt)
         {
-
             Console.Write(formatPrompt(prompt));
             return Console.ReadLine();
         }
